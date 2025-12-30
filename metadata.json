@@ -1,0 +1,8 @@
+{
+  "name": "CampusHub Content Engine",
+  "description": "An award-winning digital content strategist for university events, powered by HubAI. Generate marketing packages, high-quality images, and cinematic videos for your campus community.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
